@@ -2,6 +2,23 @@
 
 Roblox's catalog sucks shit, enough for someone who rarely uses the platform (me) to notice. In response, I built this. Using this with uBlock Origin (or anything out there that supports its filter list system, if that exists), will completely remove filtered listings from the catalog, allowing you to find what you are looking for faster, and reducing the amount of income of people capitalizing on some of the more malicious listings.
 
+<details>
+
+<summary>Expand to Show Installation</summary>
+
+| List         | Link                                                                                             |
+| ------------ | ------------------------------------------------------------------------------------------------ |
+| MAIN         | `https://raw.githubusercontent.com/vuymachina/roblox-catalog-filters/main/list.txt`              |
+| BODYSUITS    | `https://raw.githubusercontent.com/vuymachina/roblox-catalog-filters/main/list_bodysuits.txt`    |
+| BOOTLEG      | `https://raw.githubusercontent.com/vuymachina/roblox-catalog-filters/main/list_bootlegs.txt`     |
+| EMOTES       | `https://raw.githubusercontent.com/vuymachina/roblox-catalog-filters/main/list_emotes.txt`       |
+| FAKES        | `https://raw.githubusercontent.com/vuymachina/roblox-catalog-filters/main/list_fakes.txt`        |
+| FUNNY        | `https://raw.githubusercontent.com/vuymachina/roblox-catalog-filters/main/list_funny.txt`        |
+| LOWEFFORT    | `https://raw.githubusercontent.com/vuymachina/roblox-catalog-filters/main/list_loweffort.txt`    |
+| SPEECHBUBBLE | `https://raw.githubusercontent.com/vuymachina/roblox-catalog-filters/main/list_speechbubble.txt` |
+
+<details>
+
 ### What will be filtered?
 
 The points below cover everything that would cause a group, user, term, or specific item to be filtered, to the best of my ability. There are instances where an uploader does mostly infringing content as well as non infringing content. The filter will still be added to the list, as the goal is to remove as much from viewing as possible. Also, some uploader filters will end up overlapping (for instance, if you enable the "bootlegs" filter, items in the "funny" category may be caught as well). The only remedy for this is manually going through and adding individual items. _I will not do that._

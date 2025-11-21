@@ -16,11 +16,15 @@ Yeah. This typa stuff makes its way onto the catalog somehow. Anything that appe
 - **Generally Objectible Content**
 Stuff you just straight up don't wanna see. I saw a dirty diaper item on the catalog and it caused me to create this project. That falls under this category.
 
-- **"Bypassed"/Intentionally Disruptive Items**
-Big, annoying, shit.
+- **Directly/Referentially NSFW Content**
+It's a kids game, man. Get a grip.
 
 - **Items Capitalizing on Current Events**
 The world is hell, let's not bring it into the kids block game, okay?
+
+- **"Bypassed"/Intentionally Disruptive Items**
+Big, annoying, shit.
+
 
 ------------
 
@@ -44,5 +48,5 @@ Sometimes these are actually kinda funny, but as the goal of this project is to 
 - **Poor Attempts At Deception**
 Fake verification marks, counterfit ingame stats, and other items to, at least some extent, create a false display of having what you do not.
 
-- **Low Effort**
-You know it when you see it.
+- **Low Effort/Stolen Assets/Photoscans**
+Speaks for itself.

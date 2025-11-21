@@ -17,7 +17,7 @@ Roblox's catalog sucks shit, enough for someone who rarely uses the platform (me
 | LOWEFFORT    | `https://raw.githubusercontent.com/vuymachina/roblox-catalog-filters/main/list_loweffort.txt`    |
 | SPEECHBUBBLE | `https://raw.githubusercontent.com/vuymachina/roblox-catalog-filters/main/list_speechbubble.txt` |
 
-<details>
+</details>
 
 ### What will be filtered?
 

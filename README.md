@@ -11,7 +11,7 @@ These points cover everything that would cause a group, user, term, or specific 
 
 ##### Main list:
 - **Bigotry/Hate Speech**
-Yeah. This typa stuff makes its way onto the catalog somehow. Anything that appears disrespectful towards any race, sexuality, gender, or other marginalized group is filtered. Note that when it is possible, context taken from other products sold by an individual or group is taken into account. Using something I have actually seen on the catalog as an example; in isolation, a listing for a kippah head accessory appears perfectly fine, but viewing the store page of the group that uploaded it, listings for "large nose" accessories are seen, revealing the actual intent of the creator.
+Yeah. This typa stuff makes its way onto the catalog somehow. Anything that appears disrespectful towards any race, sexuality, gender, or other marginalized group is filtered. Note that when it is possible, context taken from other products sold by an individual or group is taken into account.
 
 - **Generally Objectible Content**
 Stuff you just straight up don't wanna see. I saw a dirty diaper item on the catalog and it caused me to create this project. That falls under this category.

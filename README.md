@@ -6,16 +6,16 @@ Roblox's catalog sucks shit, enough for someone who rarely uses the platform (me
 
 <summary>Expand to Show Installation</summary>
 
-| List         | Link                                                                                             |
-| ------------ | ------------------------------------------------------------------------------------------------ |
-| MAIN         | `https://raw.githubusercontent.com/vuymachina/roblox-catalog-filters/main/list.txt`              |
-| BODYSUITS    | `https://raw.githubusercontent.com/vuymachina/roblox-catalog-filters/main/list_bodysuits.txt`    |
-| BOOTLEG      | `https://raw.githubusercontent.com/vuymachina/roblox-catalog-filters/main/list_bootlegs.txt`     |
-| EMOTES       | `https://raw.githubusercontent.com/vuymachina/roblox-catalog-filters/main/list_emotes.txt`       |
-| FAKES        | `https://raw.githubusercontent.com/vuymachina/roblox-catalog-filters/main/list_fakes.txt`        |
-| FUNNY        | `https://raw.githubusercontent.com/vuymachina/roblox-catalog-filters/main/list_funny.txt`        |
-| LOWEFFORT    | `https://raw.githubusercontent.com/vuymachina/roblox-catalog-filters/main/list_loweffort.txt`    |
-| SPEECHBUBBLE | `https://raw.githubusercontent.com/vuymachina/roblox-catalog-filters/main/list_speechbubble.txt` |
+| List         | Link                                                                                           |
+| ------------ | ---------------------------------------------------------------------------------------------- |
+| MAIN         | https://raw.githubusercontent.com/vuymachina/roblox-catalog-filters/main/list.txt              |
+| BODYSUITS    | https://raw.githubusercontent.com/vuymachina/roblox-catalog-filters/main/list_bodysuits.txt    |
+| BOOTLEG      | https://raw.githubusercontent.com/vuymachina/roblox-catalog-filters/main/list_bootlegs.txt     |
+| EMOTES       | https://raw.githubusercontent.com/vuymachina/roblox-catalog-filters/main/list_emotes.txt       |
+| FAKES        | https://raw.githubusercontent.com/vuymachina/roblox-catalog-filters/main/list_fakes.txt        |
+| FUNNY        | https://raw.githubusercontent.com/vuymachina/roblox-catalog-filters/main/list_funny.txt        |
+| LOWEFFORT    | https://raw.githubusercontent.com/vuymachina/roblox-catalog-filters/main/list_loweffort.txt    |
+| SPEECHBUBBLE | https://raw.githubusercontent.com/vuymachina/roblox-catalog-filters/main/list_speechbubble.txt |
 
 </details>
 

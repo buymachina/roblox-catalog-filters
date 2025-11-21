@@ -1,0 +1,20 @@
+! Title: [EMOTES] Roblox Catalog Filters
+! Expires: 1 day
+! Description: A filter list of unwanted content on the Roblox catalog.
+! Homepage: https://github.com/buymachina/roblox-catalog-filters
+
+! I don't play Roblox all that much, but the state of the catalog irritated me enough to make this.
+! Report any issues, especially ones involving breakage of other parts of the website.
+! Feel free to pull request any additions.
+
+! Example group/user filter item (filters all items created by a specific person or group):
+! roblox.com##a[class="creator-name text-link"][href*="12345678"]:upward(7):remove()
+
+! Example product name filter item (exact contents, named nothing outside what's specified):
+! roblox.com##div[class="item-card-name"][title="Full Item Name"]:upward(5):remove()
+
+! Example product name filter item (partial contents, name contains specified string):
+! roblox.com##div[class="item-card-name"][title*="Partial Item Name"]:upward(5):remove()
+
+! Example individual item filter (only filters the item of the specified ID):
+! roblox.com##a[class="item-card-link"][href*="12345678901234"]:upward(2):remove()

@@ -6,16 +6,20 @@ Roblox's catalog sucks shit, enough for someone who rarely uses the platform (me
 
 <summary>Expand to Show Installation</summary>
 
+#### Installation
+
+In the uBlock Origin dashboard, scroll to the very bottom and expand the Import section. Paste the link to whichever list you want to add, and press apply changes.
+
 | List         | Link                                                                                           |
 | ------------ | ---------------------------------------------------------------------------------------------- |
-| MAIN         | https://raw.githubusercontent.com/vuymachina/roblox-catalog-filters/main/list.txt              |
-| BODYSUITS    | https://raw.githubusercontent.com/vuymachina/roblox-catalog-filters/main/list_bodysuits.txt    |
-| BOOTLEG      | https://raw.githubusercontent.com/vuymachina/roblox-catalog-filters/main/list_bootlegs.txt     |
-| EMOTES       | https://raw.githubusercontent.com/vuymachina/roblox-catalog-filters/main/list_emotes.txt       |
-| FAKES        | https://raw.githubusercontent.com/vuymachina/roblox-catalog-filters/main/list_fakes.txt        |
-| FUNNY        | https://raw.githubusercontent.com/vuymachina/roblox-catalog-filters/main/list_funny.txt        |
-| LOWEFFORT    | https://raw.githubusercontent.com/vuymachina/roblox-catalog-filters/main/list_loweffort.txt    |
-| SPEECHBUBBLE | https://raw.githubusercontent.com/vuymachina/roblox-catalog-filters/main/list_speechbubble.txt |
+| MAIN         | https://raw.githubusercontent.com/buymachina/roblox-catalog-filters/main/list.txt              |
+| BODYSUITS    | https://raw.githubusercontent.com/buymachina/roblox-catalog-filters/main/list_bodysuits.txt    |
+| BOOTLEG      | https://raw.githubusercontent.com/buymachina/roblox-catalog-filters/main/list_bootlegs.txt     |
+| EMOTES       | https://raw.githubusercontent.com/buymachina/roblox-catalog-filters/main/list_emotes.txt       |
+| FAKES        | https://raw.githubusercontent.com/buymachina/roblox-catalog-filters/main/list_fakes.txt        |
+| FUNNY        | https://raw.githubusercontent.com/buymachina/roblox-catalog-filters/main/list_funny.txt        |
+| LOWEFFORT    | https://raw.githubusercontent.com/buymachina/roblox-catalog-filters/main/list_loweffort.txt    |
+| SPEECHBUBBLE | https://raw.githubusercontent.com/buymachina/roblox-catalog-filters/main/list_speechbubble.txt |
 
 </details>
 

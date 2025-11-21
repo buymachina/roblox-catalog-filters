@@ -4,7 +4,7 @@ Roblox's catalog sucks shit, enough for someone who rarely uses the platform (me
 
 <details>
 
-<summary style="color: red">Expand to Show Installation</summary>
+<summary>Expand to Show Installation</summary>
 
 #### Installation
 

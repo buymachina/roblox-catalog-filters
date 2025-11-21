@@ -18,3 +18,26 @@
 
 ! Example individual item filter (only filters the item of the specified ID):
 ! roblox.com##a[class="item-card-link"][href*="12345678901234"]:upward(2):remove()
+
+! UPLOADER FILTERS
+
+
+
+
+! PARTIAL NAME FILTERS
+
+! "Labubu"
+roblox.com##div[class="item-card-name"][title*="labubu"]:upward(5):remove()
+roblox.com##div[class="item-card-name"][title*="Labubu"]:upward(5):remove()
+
+! "67"
+roblox.com##div[class="item-card-name"][title*="67"]:upward(5):remove()
+
+! "Mewing"
+roblox.com##div[class="item-card-name"][title*="mewing"]:upward(5):remove()
+roblox.com##div[class="item-card-name"][title*="Mewing"]:upward(5):remove()
+
+! "Job Application"
+roblox.com##div[class="item-card-name"][title*="Job Application"]:upward(5):remove()
+roblox.com##div[class="item-card-name"][title*="Job application"]:upward(5):remove()
+roblox.com##div[class="item-card-name"][title*="job application"]:upward(5):remove()

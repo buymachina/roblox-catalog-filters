@@ -18,3 +18,17 @@
 
 ! Example individual item filter (only filters the item of the specified ID):
 ! roblox.com##a[class="item-card-link"][href*="12345678901234"]:upward(2):remove()
+
+! UPLOADER FILTERS
+
+! HD Admin
+roblox.com##a[class="creator-name text-link"][href*="4676369"]:upward(7):remove()
+
+
+! INDIVIDUAL ITEM FILTERS
+
+! Incredible Gassy
+roblox.com##a[class="item-card-link"][href*="134044915564457"]:upward(2):remove()
+
+! Khaby Lame Mechanism 😐
+roblox.com##a[class="item-card-link"][href*="104423491517780"]:upward(2):remove()

@@ -27,7 +27,7 @@ The points below cover everything that would cause a group, user, term, or speci
 
 ---
 
-##### Separate lists (each category has its own file) (big bias influence past this point):
+##### Separate lists (each category has its own file):
 
 - **"Speech Bubble" Items**
   Most of the time formatted as texting bubbles, generally just don't look good.

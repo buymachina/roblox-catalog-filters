@@ -25,7 +25,7 @@ In the uBlock Origin dashboard, scroll to the very bottom and expand the Import 
 
 ### What will be filtered?
 
-The points below cover everything that would cause a group, user, term, or specific item to be filtered, to the best of my ability. There are instances where an uploader does mostly infringing content as well as non infringing content. The filter will still be added to the list, as the goal is to remove as much from viewing as possible. Also, some uploader filters will end up overlapping (for instance, if you enable the "bootlegs" filter, items in the "funny" category may be caught as well). The only remedy for this is manually going through and adding individual items. _I will not do that._
+The points below cover everything that would cause a group, user, term, or specific item to be filtered, to the best of my ability. There are instances where an uploader does mostly infringing content as well as non infringing content. The filter will still be added to the list, as the goal is to remove as much from viewing as possible. Also, some uploader filters will end up overlapping (for instance, if you enable the "bootlegs" filter, items in the "funny" category may be caught as well). The only remedy for this is manually going through and adding individual items. _I will not do that._ In most instances, an uploader has a wide mix of types of offending content. Because of this, some more specific lists will have much less entries than the others, due to investigation of an uploader's profile showing a more prominent variety of Shit.
 
 ---
 

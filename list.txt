@@ -23,3 +23,9 @@
 
 ! Moth Studios
 roblox.com##a[class="creator-name text-link"][href*="5703080"]:upward(7):remove()
+
+! high pawn
+roblox.com##a[class="creator-name text-link"][href*="17391753"]:upward(7):remove()
+
+! Squidward_e1
+roblox.com##a[class="creator-name text-link"][href*="4351829122"]:upward(7):remove()

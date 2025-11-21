@@ -18,3 +18,8 @@
 
 ! Example individual item filter (only filters the item of the specified ID):
 ! roblox.com##a[class="item-card-link"][href*="12345678901234"]:upward(2):remove()
+
+! UPLOADER FILTERS
+
+! Newest UGC
+roblox.com##a[class="creator-name text-link"][href*="1100842326"]:upward(7):remove()

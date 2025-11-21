@@ -22,4 +22,16 @@
 ! UPLOADER FILTERS
 
 ! Baconboyz UGC v2
-! roblox.com##a[class="creator-name text-link"][href*="107020867"]:upward(7):remove()
+roblox.com##a[class="creator-name text-link"][href*="107020867"]:upward(7):remove()
+
+! SUPER EPIC ITEMS
+roblox.com##a[class="creator-name text-link"][href*="34267481"]:upward(7):remove()
+
+! Fanmade UGC
+roblox.com##a[class="creator-name text-link"][href*="35946253"]:upward(7):remove()
+
+! Tall Verse Studios
+roblox.com##a[class="creator-name text-link"][href*="5035496"]:upward(7):remove()
+
+! Outglow UGC
+roblox.com##a[class="creator-name text-link"][href*="35641832"]:upward(7):remove()

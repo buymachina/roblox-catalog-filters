@@ -21,7 +21,8 @@
 
 ! UPLOADER FILTERS
 
-
+! Gross UGC
+roblox.com##a[class="creator-name text-link"][href*="34941764"]:upward(7):remove()
 
 
 ! PARTIAL NAME FILTERS

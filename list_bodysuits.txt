@@ -23,3 +23,32 @@
 
 ! Newest UGC
 roblox.com##a[class="creator-name text-link"][href*="1100842326"]:upward(7):remove()
+
+! UGV
+roblox.com##a[class="creator-name text-link"][href*="219126206"]:upward(7):remove()
+
+! UGC Creator Studio
+roblox.com##a[class="creator-name text-link"][href*="543069538"]:upward(7):remove()
+
+! MemeVerse UGC
+roblox.com##a[class="creator-name text-link"][href*="65050866"]:upward(7):remove()
+
+! KAADEE's UGC
+roblox.com##a[class="creator-name text-link"][href*="11604896"]:upward(7):remove()
+
+! FUN BUNDLE UGC
+roblox.com##a[class="creator-name text-link"][href*="952535814"]:upward(7):remove()
+
+! CrazyWizard6
+roblox.com##a[class="creator-name text-link"][href*="168821564"]:upward(7):remove()
+
+! Monopoly's UGC
+roblox.com##a[class="creator-name text-link"][href*="34523870"]:upward(7):remove()
+
+! INDIVIDUAL ITEM FILTERS
+
+! Scary Spongebob (1/3)
+roblox.com##a[class="item-card-link"][href*="123911902854811"]:upward(2):remove()
+
+! Spongebob (Fixed)
+roblox.com##a[class="item-card-link"][href*="1068668374367"]:upward(2):remove()

@@ -35,3 +35,18 @@ roblox.com##a[class="creator-name text-link"][href*="5035496"]:upward(7):remove(
 
 ! Outglow UGC
 roblox.com##a[class="creator-name text-link"][href*="35641832"]:upward(7):remove()
+
+! Sky
+roblox.com##a[class="creator-name text-link"][href*="35963699"]:upward(7):remove()
+
+! UGC Despicable
+roblox.com##a[class="creator-name text-link"][href*="42156674"]:upward(7):remove()
+
+! Meme UGC!!
+roblox.com##a[class="creator-name text-link"][href*="35784663"]:upward(7):remove()
+
+! yurs_truxly
+roblox.com##a[class="creator-name text-link"][href*="5155991417"]:upward(7):remove()
+
+! shr2mp
+roblox.com##a[class="creator-name text-link"][href*="674068579"]:upward(7):remove()

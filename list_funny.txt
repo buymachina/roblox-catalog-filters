@@ -24,6 +24,9 @@
 ! Gross UGC
 roblox.com##a[class="creator-name text-link"][href*="34941764"]:upward(7):remove()
 
+! Bad UGC
+roblox.com##a[class="creator-name text-link"][href*="16655649"]:upward(7):remove()
+
 
 ! PARTIAL NAME FILTERS
 
@@ -42,3 +45,11 @@ roblox.com##div[class="item-card-name"][title*="Mewing"]:upward(5):remove()
 roblox.com##div[class="item-card-name"][title*="Job Application"]:upward(5):remove()
 roblox.com##div[class="item-card-name"][title*="Job application"]:upward(5):remove()
 roblox.com##div[class="item-card-name"][title*="job application"]:upward(5):remove()
+
+! INDIVIDUAL ITEM FILTERS
+
+! Screaming Man
+roblox.com##a[class="item-card-link"][href*="92363716840273"]:upward(2):remove()
+
+! Big Foot
+roblox.com##a[class="item-card-link"][href*="177459629406961"]:upward(2):remove()

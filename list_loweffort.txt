@@ -50,3 +50,12 @@ roblox.com##a[class="creator-name text-link"][href*="5155991417"]:upward(7):remo
 
 ! shr2mp
 roblox.com##a[class="creator-name text-link"][href*="674068579"]:upward(7):remove()
+
+! Anime Accessory Hub
+roblox.com##a[class="creator-name text-link"][href*="34332801"]:upward(7):remove()
+
+! cursed group UGC
+roblox.com##a[class="creator-name text-link"][href*="14560729"]:upward(7):remove()
+
+! ETRNL UGC.
+roblox.com##a[class="creator-name text-link"][href*="35994745"]:upward(7):remove()

@@ -45,6 +45,9 @@ roblox.com##a[class="creator-name text-link"][href*="168821564"]:upward(7):remov
 ! Monopoly's UGC
 roblox.com##a[class="creator-name text-link"][href*="34523870"]:upward(7):remove()
 
+! Cartoon-Nite
+roblox.com##a[class="creator-name text-link"][href*="33507129"]:upward(7):remove()
+
 ! INDIVIDUAL ITEM FILTERS
 
 ! Scary Spongebob (1/3)

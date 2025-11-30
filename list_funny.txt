@@ -53,3 +53,6 @@ roblox.com##a[class="item-card-link"][href*="92363716840273"]:upward(2):remove()
 
 ! Big Foot
 roblox.com##a[class="item-card-link"][href*="177459629406961"]:upward(2):remove()
+
+! Khaby Lame Mechanism
+roblox.com##a[class="item-card-link"][href*="152065875684141"]:upward(2):remove()

@@ -30,6 +30,9 @@ roblox.com##a[class="creator-name text-link"][href*="17391753"]:upward(7):remove
 ! Squidward_e1
 roblox.com##a[class="creator-name text-link"][href*="4351829122"]:upward(7):remove()
 
+! emptiedsoul
+roblox.com##a[class="creator-name text-link"][href*="35436550"]:upward(7):remove()
+
 ! PARTIAL NAME FILTERS
 
 roblox.com##div[class="item-card-name"][title*="MRGA"]:upward(5):remove()

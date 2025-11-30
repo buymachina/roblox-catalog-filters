@@ -18,3 +18,8 @@
 
 ! Example individual item filter (only filters the item of the specified ID):
 ! roblox.com##a[class="item-card-link"][href*="12345678901234"]:upward(2):remove()
+
+! PARTIAL NAME FILTERS
+
+roblox.com##div[class="item-card-name"][title*="verified"]:upward(5):remove()
+roblox.com##div[class="item-card-name"][title*="Verified"]:upward(5):remove()
